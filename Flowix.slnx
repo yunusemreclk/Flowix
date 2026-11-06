@@ -1,5 +1,3 @@
 <Solution>
-  <Folder Name="/src/">
-    <Project Path="src/Flowix.Domain/Flowix.Domain.csproj" />
-  </Folder>
+  <Project Path="Flowix.Domain/Flowix.Domain.csproj" />
 </Solution>
